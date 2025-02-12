@@ -1,4 +1,4 @@
-# The Future in Tech HOLA
+# The Future in Tech HOLA HolA
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
